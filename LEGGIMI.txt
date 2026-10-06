@@ -1,0 +1,1 @@
+Radio Luce Mobile Live v2. Non inserire password in GitHub. Le credenziali restano nelle Environment Variables di Render.

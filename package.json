@@ -1,1 +1,13 @@
-{"name":"radio-luce-live-bridge","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node server.js"},"dependencies":{"express":"^5.1.0","ws":"^8.18.3"}}
+{
+  "name": "radio-luce-live-bridge",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "ws": "^8.18.3"
+  }
+}
