@@ -1,0 +1,1 @@
+Radio Luce Bridge v3: risolve ICECAST_HOST in IPv4 prima di avviare ffmpeg e non stampa le credenziali nei log. Non inserire password nei file.
